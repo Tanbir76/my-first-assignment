@@ -134,3 +134,42 @@ height: 240px;
 .card-text-margin{
 	margin-right: 80px;
 }
+/* video-card-style  */
+.video-card{
+	height: 690px;
+	width: 1140px;
+	padding: 74px 152px 74px 148px;
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+.video-card h2{
+	color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+}
+.video-card p{
+	color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+}
+.junker-vai-video iframe{
+margin-top: 0 auto;
+text-align: center;
+width: 1076px;
+height: 550px;
+	box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.2);
+border-radius: 16px;
+
+}
+.junker-vai-video{
+	width: 1140px;
+height: 614px;
+box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.2);
+border-radius: 16px;
+padding: 25px;
+}
+/* developer-target-page-style */
