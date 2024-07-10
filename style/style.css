@@ -173,3 +173,64 @@ border-radius: 16px;
 padding: 25px;
 }
 /* developer-target-page-style */
+.developer-target-page{
+	width: 1140px;
+height: 460px;
+	margin: 0 auto;
+	margin-top: 130px;
+}
+.developer-target-page h1{
+	color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+}
+.developer-target-page p{
+	color: rgb(13, 19, 33);
+	font-family: Azeret Mono;
+	font-size: 16px;
+	font-weight: 400;
+
+}
+.target-course-card{
+	display: flex;
+	justify-content:space-around;
+	align-items: center;
+	gap: 24px;
+	margin-top: 48px;
+	
+}
+.card-container1{
+	background-color: rgba(224, 142, 122, 0.308);
+	border-radius: 16px;
+	padding: 40px;
+	
+}
+.card-container1 img{
+margin-top: 10px 0px 0px 10px;
+}
+ .card-box-head{
+	color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 800;
+}
+
+.learn-btn{
+	color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 700;
+border: none;
+}
+.card-container2{
+	border-radius: 16px;
+background: rgba(0, 77, 232, 0.164);
+	padding: 40px;
+}
+
+.card-container3{
+	border-radius: 16px;
+background: rgba(255, 221, 0, 0.329);
+padding: 40px;
+}
